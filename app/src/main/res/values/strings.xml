@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="home">Home</string>
+    <string name="news_feed">News Feed</string>
+    <string name="health">Health</string>
+    <string name="sports">Sports</string>
+    <string name="Home">Home</string>
+</resources>
